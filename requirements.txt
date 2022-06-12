@@ -13,7 +13,7 @@ inflection @ file:///home/conda/feedstock_root/build_artifacts/inflection_159808
 ipykernel @ file:///C:/ci/ipykernel_1647000978151/work/dist/ipykernel-6.9.1-py3-none-any.whl
 ipython @ file:///C:/ci/ipython_1648817225380/work
 jedi @ file:///C:/ci/jedi_1644315425835/work
-joblib==1.1.0
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1633637554808/work
 jupyter-client @ file:///C:/ci/jupyter_client_1650534470695/work
 jupyter-core @ file:///C:/ci/jupyter_core_1646976462809/work
 kiwisolver @ file:///D:/bld/kiwisolver_1648854542949/work
@@ -36,14 +36,14 @@ python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1647961439546/work
 pywin32==302
 pyzmq @ file:///C:/ci/pyzmq_1638435185959/work
-scikit-learn==1.1.1
+scikit-learn @ file:///D:/bld/scikit-learn_1652976994170/work
 scipy @ file:///C:/bld/scipy_1653074070936/work
 seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-split_1629095986539/work
 six @ file:///tmp/build/80754af9/six_1644875935023/work
 sklearn==0.0
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 statsmodels @ file:///D:/bld/statsmodels_1644535941519/work
-threadpoolctl==3.1.0
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1643647933166/work
 tornado @ file:///C:/ci/tornado_1606942392901/work
 traitlets @ file:///tmp/build/80754af9/traitlets_1636710298902/work
 unicodedata2 @ file:///D:/bld/unicodedata2_1649112097357/work
