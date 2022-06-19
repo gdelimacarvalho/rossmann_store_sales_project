@@ -109,5 +109,6 @@ dependencies:
   - zstd=1.5.2=h6255e5f_1
   - pip:
     - boruta==0.3
+    - random2==1.0.1
     - sklearn==0.0
 prefix: C:\Users\gdeli\anaconda3\envs\rossmann_project
