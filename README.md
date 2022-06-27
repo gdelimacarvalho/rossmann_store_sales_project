@@ -35,4 +35,4 @@ The model was made for the forecast of 1115 stores. Sales are expected to be \$2
 
 In Kaggle, submissions are evaluated on the Root Mean Square Percentage Error (RMSPE). The RMSPE from this test was 0.11872.
 
-<a href="[url](https://github.com/gdelimacarvalho/rossmann_store_sales_project/blob/main/rossmann_store_sales_project.ipynb)">Click here</a> to see the entire project.
+<a href="https://github.com/gdelimacarvalho/rossmann_store_sales_project/blob/main/rossmann_store_sales_project.ipynb">Click here</a> to see the entire project.
